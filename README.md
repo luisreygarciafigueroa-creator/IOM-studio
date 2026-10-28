@@ -3,7 +3,7 @@
 **Emulación neuronal del marco formal IOM (Unidad Informativa) + plataforma de automatización y optimización de procesos mediante Machine Learning e inteligencia Gemini.**
 
 [![Version](https://img.shields.io/badge/version-1.9.0-cyan)](https://github.com/luisreygarciafigueroa-creator/IOM-studio)
-[![License](https://img.shields.io/badge/license-Private-blue)](https://github.com/luisreygarciafigueroa-creator/IOM-studio)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/luisreygarciafigueroa-creator/IOM-studio/blob/main/LICENSE)
 [![Stack](https://img.shields.io/badge/stack-React%2019%20%7C%20TypeScript%20%7C%20Vite%20%7C%20Express-indigo)](https://github.com/luisreygarciafigueroa-creator/IOM-studio)
 
 ---
@@ -138,6 +138,7 @@ IOM-studio/
 ├── vite.config.ts
 ├── tsconfig.json
 ├── .env.example
+├── LICENSE
 └── metadata.json
 ```
 
@@ -180,10 +181,14 @@ Validación disponible: split o **Leave-One-Triad-Out** (13 folds).
 
 ## Licencia y autoría
 
-Proyecto desarrollado por **Luis Rey García Figueroa**.
+MIT License — Copyright (c) 2026 Luis Rey García Figueroa
+
+Ver el archivo [`LICENSE`](LICENSE).
 
 Marco formal IOM (Unidad Informativa) — especificación canónica v1.9.0.  
 Punto fijo estricto demostrado en Lean 4.
+
+Repositorio formal de referencia: [luisreygarciafigueroa-creator/IOM](https://github.com/luisreygarciafigueroa-creator/IOM)
 
 ---
 
