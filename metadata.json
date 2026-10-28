@@ -1,0 +1,6 @@
+{
+  "name": "IOM Neural AutoFlow - Automatización de Procesos y Modelo ML",
+  "description": "Emulación neuronal del marco formal IOM y plataforma de automatización y optimización de procesos mediante aprendizaje automático e inteligencia Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
